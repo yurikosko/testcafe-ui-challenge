@@ -1,0 +1,22 @@
+{
+  "name": "testcafe-ui-challenge",
+  "version": "1.0.0",
+  "description": "UI challenge for Auto1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurikosko/testcafe-ui-challenge.git"
+  },
+  "author": "Yurii Kosko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurikosko/testcafe-ui-challenge/issues"
+  },
+  "homepage": "https://github.com/yurikosko/testcafe-ui-challenge#readme",
+  "dependencies": {
+    "testcafe": "^1.13.0"
+  }
+}
