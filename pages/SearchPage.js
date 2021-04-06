@@ -60,7 +60,7 @@ export class SearchPage {
             if (yearsList[i] < year) {
                 return false;
             }
-            return true;
         }
+        return true;
     }
 }
