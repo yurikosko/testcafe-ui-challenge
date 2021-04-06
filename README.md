@@ -1,7 +1,8 @@
-# testcafe-ui-challenge
-#TestCafe UI Challenge
-
-In order to run test first clone the repository in project folder fire command:
+Make sure that Node.js and npm are installed on your machine
+<br/>
+In order to run test first clone the repository 
+<br/>
+In project folder fire command:
 <br/>
 `npm install`
 <br/>
